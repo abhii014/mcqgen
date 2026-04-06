@@ -1,2 +1,6 @@
 env
 .env
+__pycache__
+*.egg-info
+logs
+experiment/AI.csv
