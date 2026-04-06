@@ -1,6 +1,3 @@
-import sys
-sys.path.append("C:\\Users\\jolly\\mcqgen")
-
 import os
 import json
 import traceback

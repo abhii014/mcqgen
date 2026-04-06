@@ -1,7 +1,9 @@
 groq
 langchain
+langchain-groq
+langchain-core
 streamlit
 python-dotenv
 PyPDF2
-
+pandas
 -e . 
